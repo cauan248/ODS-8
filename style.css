@@ -1,0 +1,84 @@
+#fundo{
+    background-image: url(onu.jpg);
+    background-repeat: no-repeat;
+}
+.imagem{
+    height: 500px;
+    width: 1700px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: 100%;
+    border: 10px white solid;
+    border-right: 90px white solid;
+}
+h1{
+    font-size: 40px;
+    margin-left: 60px;
+    margin-bottom: 100px;
+}
+.texto{
+    background-color: blue;
+    border: 5px black solid;
+    text-align: center;
+    margin-right: 80px;
+    margin-left: 90px;
+    
+}
+.p1{
+    font-size: 50px;
+    margin-top: 20px; 
+    background-color: red;
+    border: 5px black solid;
+    margin-left: 90px;
+    
+}
+.fundo2{
+    background-image: url(O-que-é-educação-financeira.png);   
+}
+.imagem2{
+    height: 300px;
+    background-color: black;
+    width: 1600px;
+    margin-left: 90px;
+
+}
+.texto2{
+    font-size: 40px;
+    text-align: left;
+    margin-left: 90px;
+}
+.p2{
+    font-size: 40px;
+    text-align: left;
+    margin-left: 90px;
+}
+.p3{
+    font-size: 50px;
+    margin-top: 20px;
+    background-color: red;
+    border: 5px black solid;
+    margin-left: 90px
+}
+.imagem3{
+    height: 300px;
+    background-color: black;
+    width: 1600px;
+    margin-left: 90px;
+}
+.texto3{
+    font-size: 40px;
+    text-align: left;
+    margin-left: 90px;
+}
+.texto0{
+    font-size: 50px; 
+    background-color: black;
+    border: 5px red solid;
+    margin-left: 90px;
+    text-align: center;
+    color: white;
+}
+#os{
+    height: 450px;
+}
